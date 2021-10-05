@@ -1,0 +1,37 @@
+package fristappimpl;
+
+import java.sql.Connection;
+
+import org.eclipse.jdt.internal.compiler.batch.Main;
+
+import firstapp.dbutil.DbUtil;
+import fristappservice.Register;
+
+public class RegisterMethod implements Register {
+
+	@Override
+	public void method(String id, String name, String age) {
+		// TODO Auto-generated method stub
+		System.out.println("fristname---"+id+"secondname---"+name+"email---"+age);
+		
+		DbUtil dbutil=new DbUtil();
+		try {
+		Connection con= dbutil.getconnection();
+		
+		System.out.println("connection success---"+con);
+		}catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
+	
+		}
+		
+			public static void main(String[] args) {
+				Register obj=new RegisterMethod();
+				obj.method("aaa", "aaa", "aaa");
+				
+			} 
+		
+	}
+	
+

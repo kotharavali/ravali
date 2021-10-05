@@ -1,0 +1,41 @@
+package firstapp.dbutil;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class Data {
+	Connection con;
+	ResultSet set;
+	Statement statement;
+	boolean	b1;
+	public void cat()  {
+		DbUtil db = new DbUtil();
+		con = db.getConnection();
+		
+		
+		try {
+			System.out.println("hello");
+			PreparedStatement ps=con.prepareStatement("upadate name=name+kk where name=ravali");
+						
+           System.out.println(set.getString("name"));
+							
+		
+		 
+		}
+		catch(Exception e){
+			
+		}
+	}
+	public static void main(String[] args) {
+		Data obj=new Data();
+		obj.cat();
+		
+	}
+}
+	
+
+
+

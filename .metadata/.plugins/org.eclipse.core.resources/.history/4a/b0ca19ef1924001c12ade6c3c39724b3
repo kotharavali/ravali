@@ -1,0 +1,12 @@
+package fristappservice;
+
+import java.util.ArrayList;
+
+import fristappbean.MyModel;
+
+public interface Tableinf {
+	public  ArrayList<MyModel> gold();
+		
+	
+
+}

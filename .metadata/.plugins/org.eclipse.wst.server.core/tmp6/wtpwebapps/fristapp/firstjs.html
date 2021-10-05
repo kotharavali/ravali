@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</ti"WebContent/firstjs.html"tle>
+<script>
+user:function serv(){
+	alert("hey");
+	document.getElementById("hi").action="./Getvalue";
+	document.getElementById("hi").method="POST";
+	document.getElementById("hi").submit;
+
+
+	    var xmlhttp = new XMLHttpRequest();
+
+	    xmlhtt.onreadystatechange=function() {
+	    	alert("hh");
+	        
+	               document.getElementById("myDiv").innerHTML = xmlhttp.responseText;
+	           
+	    };
+
+	    xmlhttp.open("GET", "ajax_info.txt", true);
+	    xmlhttp.send();
+	
+}
+
+	
+
+	
+</script>
+</head>
+<body>
+<form id="hi">
+FirstName:<input type="text" name="xyz" >
+<button type="submit"  onclick="serv()">register</button>
+</form>
+<strong>response</strong>
+<div id="myDiv">hello</div>
+</body>
+</html>

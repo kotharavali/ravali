@@ -1,0 +1,9 @@
+package fristappbean;
+
+public class BookBean {
+private	String name;
+private	String bookname;
+private	String year;
+private	String price;
+
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script>
+function servlt(){
+	alert("calling servlet");
+	
+	document.getElementById("serv").action="./Admin"
+	document.getElementById("serv").method="POST";
+	document.getElementById("serv").submit();
+}
+
+</script>
+</head>
+<body>
+<form id="serv">
+firstName:<input type="text" name="name">
+SecondName:<input type="text" name="nam">
+<button type="submit"  onclick="servlt()">register</button>
+<
+</form>
+
+</body>
+</html>

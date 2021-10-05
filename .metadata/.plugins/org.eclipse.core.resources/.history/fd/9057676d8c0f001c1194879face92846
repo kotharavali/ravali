@@ -1,0 +1,54 @@
+package pratice;
+
+import java.util.Scanner;
+
+public class linklist {
+	static int empid;
+	static String  empname;
+	 linklist(int empid,String empname){
+		 this.empid=empid;
+		 this.empname=empname;
+		 System.out.println("print---- "+empid + empname );
+		 
+		 
+	 }
+linklist(String empname,int empid){
+	this.empname=empname;
+	this.empid=empid;
+	
+		 
+	 }
+public void ss(Scan a) {
+	Scan s=a[];
+	
+	
+}
+
+/* (non-Javadoc)
+ * @see java.lang.Object#toString()
+ */
+@Override
+public String toString() {
+	return "Scan []";
+}
+public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	System.out.println("enter empid");
+	int id=sc.nextInt();
+	System.out.println("enter empname");
+	String name=sc.next();
+    //new Scan(id,name);
+	Scan a[]=new Scan[2];
+	System.out.println("enter value");
+	for(int i=0;i<2;i++) {
+		a[i]=new Scan(id,name);
+	}
+		
+	
+	
+	
+
+}
+
+
+}

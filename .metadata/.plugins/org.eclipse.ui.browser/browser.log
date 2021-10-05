@@ -1,0 +1,240 @@
+
+Sep 25, 2021 15:11:10.96 NEW SESSION
+Sep 25, 2021 15:11:10.96 [11856:15528:0925/151110.956:ERROR:device_event_log_impl.cc(214)] [15:11:10.956] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:15:03.86 [11856:15528:0925/151503.858:ERROR:device_event_log_impl.cc(214)] [15:15:03.858] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:05.16 [11856:15528:0925/151505.162:ERROR:device_event_log_impl.cc(214)] [15:15:05.162] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:06.87 [11856:15528:0925/151506.872:ERROR:device_event_log_impl.cc(214)] [15:15:06.872] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:07.07 [11856:15528:0925/151507.078:ERROR:device_event_log_impl.cc(214)] [15:15:07.078] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:15:07.07 [11856:15528:0925/151507.078:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:15:07.08 [11856:15528:0925/151507.078:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 25, 2021 15:15:07.08 [11856:15528:0925/151507.078:ERROR:device_event_log_impl.cc(214)] [15:15:07.078] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:15:10.05 [11856:15528:0925/151510.056:ERROR:device_event_log_impl.cc(214)] [15:15:10.056] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:14.42 [11856:15528:0925/151514.427:ERROR:device_event_log_impl.cc(214)] [15:15:14.427] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:14.96 [11856:15528:0925/151514.966:ERROR:device_event_log_impl.cc(214)] [15:15:14.966] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:15.38 [11856:15528:0925/151515.382:ERROR:device_event_log_impl.cc(214)] [15:15:15.381] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:15.38 [11856:15528:0925/151515.384:ERROR:device_event_log_impl.cc(214)] [15:15:15.384] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:15:15.38 [11856:15528:0925/151515.384:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:15:15.38 [11856:15528:0925/151515.385:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 1.
+Sep 25, 2021 15:15:15.38 [11856:15528:0925/151515.385:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 2.
+Sep 25, 2021 15:15:15.38 [11856:15528:0925/151515.385:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 3.
+Sep 25, 2021 15:15:15.38 [11856:15528:0925/151515.385:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 4, got 0.
+Sep 25, 2021 15:15:15.39 [11856:15528:0925/151515.385:ERROR:device_event_log_impl.cc(214)] [15:15:15.386] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:15:15.78 [11856:15528:0925/151515.780:ERROR:device_event_log_impl.cc(214)] [15:15:15.780] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:17.77 [11856:15528:0925/151517.776:ERROR:device_event_log_impl.cc(214)] [15:15:17.776] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:17.77 [11856:15528:0925/151517.777:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:15:17.77 [11856:15528:0925/151517.778:ERROR:device_event_log_impl.cc(214)] [15:15:17.778] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:15:18.10 [11856:15528:0925/151518.106:ERROR:device_event_log_impl.cc(214)] [15:15:18.107] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:19.66 [11856:15528:0925/151519.667:ERROR:device_event_log_impl.cc(214)] [15:15:19.667] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:20.39 [11856:15528:0925/151520.399:ERROR:device_event_log_impl.cc(214)] [15:15:20.399] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:22.39 [11856:15528:0925/151522.394:ERROR:device_event_log_impl.cc(214)] [15:15:22.394] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:22.40 [11856:15528:0925/151522.406:ERROR:device_event_log_impl.cc(214)] [15:15:22.406] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:15:24.29 [11856:15528:0925/151524.290:ERROR:device_event_log_impl.cc(214)] [15:15:24.290] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:24.64 [11856:15528:0925/151524.642:ERROR:device_event_log_impl.cc(214)] [15:15:24.642] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:26.19 [11856:15528:0925/151526.198:ERROR:device_event_log_impl.cc(214)] [15:15:26.199] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:26.20 [11856:15528:0925/151526.199:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:15:26.20 [11856:15528:0925/151526.199:ERROR:device_event_log_impl.cc(214)] [15:15:26.200] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:15:28.10 [11856:15528:0925/151528.104:ERROR:device_event_log_impl.cc(214)] [15:15:28.104] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:28.11 [11856:15528:0925/151528.117:ERROR:device_event_log_impl.cc(214)] [15:15:28.117] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:15:28.44 [11856:15528:0925/151528.447:ERROR:device_event_log_impl.cc(214)] [15:15:28.447] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:29.26 [11856:15528:0925/151529.268:ERROR:device_event_log_impl.cc(214)] [15:15:29.268] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:30.82 [11856:15528:0925/151530.820:ERROR:device_event_log_impl.cc(214)] [15:15:30.820] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:31.12 [11856:15528:0925/151531.127:ERROR:device_event_log_impl.cc(214)] [15:15:31.127] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:32.72 [11856:15528:0925/151532.727:ERROR:device_event_log_impl.cc(214)] [15:15:32.727] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:33.02 [11856:15528:0925/151533.023:ERROR:device_event_log_impl.cc(214)] [15:15:33.023] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:33.47 [11856:15528:0925/151533.472:ERROR:device_event_log_impl.cc(214)] [15:15:33.472] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:34.28 [11856:15528:0925/151534.285:ERROR:device_event_log_impl.cc(214)] [15:15:34.285] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:36.28 [11856:15528:0925/151536.284:ERROR:device_event_log_impl.cc(214)] [15:15:36.285] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:38.29 [11856:15528:0925/151538.292:ERROR:device_event_log_impl.cc(214)] [15:15:38.292] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:38.29 [11856:15528:0925/151538.293:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:15:38.29 [11856:15528:0925/151538.293:ERROR:device_event_log_impl.cc(214)] [15:15:38.293] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:15:38.53 [11856:15528:0925/151538.534:ERROR:device_event_log_impl.cc(214)] [15:15:38.534] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:40.08 [11856:15528:0925/151540.081:ERROR:device_event_log_impl.cc(214)] [15:15:40.080] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:40.43 [11856:15528:0925/151540.438:ERROR:device_event_log_impl.cc(214)] [15:15:40.438] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:41.98 [11856:15528:0925/151541.981:ERROR:device_event_log_impl.cc(214)] [15:15:41.980] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:42.28 [11856:15528:0925/151542.286:ERROR:device_event_log_impl.cc(214)] [15:15:42.286] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:43.87 [11856:15528:0925/151543.879:ERROR:device_event_log_impl.cc(214)] [15:15:43.879] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:44.18 [11856:15528:0925/151544.186:ERROR:device_event_log_impl.cc(214)] [15:15:44.186] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:44.64 [11856:15528:0925/151544.643:ERROR:device_event_log_impl.cc(214)] [15:15:44.643] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:45.06 [11856:15528:0925/151545.059:ERROR:device_event_log_impl.cc(214)] [15:15:45.059] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:45.50 [11856:15528:0925/151545.499:ERROR:device_event_log_impl.cc(214)] [15:15:45.499] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:45.50 [11856:15528:0925/151545.500:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:15:45.50 [11856:15528:0925/151545.500:ERROR:device_event_log_impl.cc(214)] [15:15:45.500] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:15:46.04 [11856:15528:0925/151546.049:ERROR:device_event_log_impl.cc(214)] [15:15:46.049] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:15:46.05 [11856:15528:0925/151546.050:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:15:46.05 [11856:15528:0925/151546.052:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 25, 2021 15:15:46.05 [11856:15528:0925/151546.053:ERROR:device_event_log_impl.cc(214)] [15:15:46.054] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:15:46.11 [11856:15528:0925/151546.117:ERROR:device_event_log_impl.cc(214)] [15:15:46.117] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:15:46.12 [11856:15528:0925/151546.129:ERROR:device_event_log_impl.cc(214)] [15:15:46.129] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:46.37 [11856:15528:0925/151546.378:ERROR:device_event_log_impl.cc(214)] [15:15:46.378] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:15:47.71 [11856:15528:0925/151547.710:ERROR:device_event_log_impl.cc(214)] [15:15:47.710] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:47.69 [11856:15528:0925/152447.695:ERROR:device_event_log_impl.cc(214)] [15:24:47.695] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:48.06 [11856:15528:0925/152448.067:ERROR:device_event_log_impl.cc(214)] [15:24:48.066] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:48.52 [11856:15528:0925/152448.523:ERROR:device_event_log_impl.cc(214)] [15:24:48.522] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:50.48 [11856:15528:0925/152450.486:ERROR:device_event_log_impl.cc(214)] [15:24:50.485] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:50.83 [11856:15528:0925/152450.831:ERROR:device_event_log_impl.cc(214)] [15:24:50.831] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:52.38 [11856:15528:0925/152452.385:ERROR:device_event_log_impl.cc(214)] [15:24:52.385] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:52.61 [11856:15528:0925/152452.611:ERROR:device_event_log_impl.cc(214)] [15:24:52.610] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:24:52.61 [11856:15528:0925/152452.612:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:24:52.61 [11856:15528:0925/152452.612:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 25, 2021 15:24:52.61 [11856:15528:0925/152452.612:ERROR:device_event_log_impl.cc(214)] [15:24:52.611] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:24:52.72 [11856:15528:0925/152452.722:ERROR:device_event_log_impl.cc(214)] [15:24:52.722] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:24:52.73 [11856:15528:0925/152452.735:ERROR:device_event_log_impl.cc(214)] [15:24:52.735] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:52.88 [11856:15528:0925/152452.882:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:24:52.88 [11856:15528:0925/152452.882:ERROR:device_event_log_impl.cc(214)] [15:24:52.882] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:24:53.32 [11856:15528:0925/152453.322:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:24:53.32 [11856:15528:0925/152453.322:ERROR:device_event_log_impl.cc(214)] [15:24:53.322] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:24:53.33 [11856:15528:0925/152453.333:ERROR:device_event_log_impl.cc(214)] [15:24:53.332] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:24:53.34 [11856:15528:0925/152453.343:ERROR:device_event_log_impl.cc(214)] [15:24:53.342] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:53.80 [11856:15528:0925/152453.771:ERROR:device_event_log_impl.cc(214)] [15:24:53.771] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:54.23 [11856:15528:0925/152454.233:ERROR:device_event_log_impl.cc(214)] [15:24:54.232] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:54.61 [11856:15528:0925/152454.619:ERROR:device_event_log_impl.cc(214)] [15:24:54.618] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:54.77 [11856:15528:0925/152454.773:ERROR:device_event_log_impl.cc(214)] [15:24:54.773] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:24:54.77 [11856:15528:0925/152454.773:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:24:54.77 [11856:15528:0925/152454.773:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 25, 2021 15:24:54.77 [11856:15528:0925/152454.773:ERROR:device_event_log_impl.cc(214)] [15:24:54.773] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:24:54.82 [11856:15528:0925/152454.826:ERROR:device_event_log_impl.cc(214)] [15:24:54.825] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:24:54.84 [11856:15528:0925/152454.846:ERROR:device_event_log_impl.cc(214)] [15:24:54.845] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:55.17 [11856:15528:0925/152455.173:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:24:55.17 [11856:15528:0925/152455.173:ERROR:device_event_log_impl.cc(214)] [15:24:55.173] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:24:55.57 [11856:15528:0925/152455.576:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:24:55.85 [11856:15528:0925/152455.853:ERROR:device_event_log_impl.cc(214)] [15:24:55.853] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:56.25 [11856:15528:0925/152456.257:ERROR:device_event_log_impl.cc(214)] [15:24:56.255] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:57.83 [11856:15528:0925/152457.837:ERROR:device_event_log_impl.cc(214)] [15:24:57.837] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:58.12 [11856:15528:0925/152458.128:ERROR:device_event_log_impl.cc(214)] [15:24:58.127] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:24:58.60 [11856:15528:0925/152458.601:ERROR:device_event_log_impl.cc(214)] [15:24:58.600] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:00.55 [11856:15528:0925/152500.551:ERROR:device_event_log_impl.cc(214)] [15:25:00.551] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:00.90 [11856:15528:0925/152500.908:ERROR:device_event_log_impl.cc(214)] [15:25:00.907] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:01.30 [11856:15528:0925/152501.302:ERROR:device_event_log_impl.cc(214)] [15:25:01.302] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:01.72 [11856:15528:0925/152501.726:ERROR:device_event_log_impl.cc(214)] [15:25:01.725] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:02.13 [11856:15528:0925/152502.132:ERROR:device_event_log_impl.cc(214)] [15:25:02.130] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:02.98 [11856:15528:0925/152502.983:ERROR:device_event_log_impl.cc(214)] [15:25:02.983] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:03.30 [11856:15528:0925/152503.305:ERROR:device_event_log_impl.cc(214)] [15:25:03.305] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:04.91 [11856:15528:0925/152504.910:ERROR:device_event_log_impl.cc(214)] [15:25:04.909] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:05.21 [11856:15528:0925/152505.216:ERROR:device_event_log_impl.cc(214)] [15:25:05.216] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:05.65 [11856:15528:0925/152505.654:ERROR:device_event_log_impl.cc(214)] [15:25:05.653] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:06.07 [11856:15528:0925/152506.070:ERROR:device_event_log_impl.cc(214)] [15:25:06.069] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:07.71 [11856:15528:0925/152507.716:ERROR:device_event_log_impl.cc(214)] [15:25:07.716] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:07.72 [11856:15528:0925/152507.724:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:25:07.72 [11856:15528:0925/152507.725:ERROR:device_event_log_impl.cc(214)] [15:25:07.725] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:25:08.13 [11856:15528:0925/152508.139:ERROR:device_event_log_impl.cc(214)] [15:25:08.138] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:25:08.44 [11856:15528:0925/152508.440:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:25:08.44 [11856:15528:0925/152508.440:ERROR:device_event_log_impl.cc(214)] [15:25:08.440] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:25:08.47 [11856:15528:0925/152508.475:ERROR:device_event_log_impl.cc(214)] [15:25:08.475] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:25:08.48 [11856:15528:0925/152508.483:ERROR:device_event_log_impl.cc(214)] [15:25:08.482] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:08.65 [11856:15528:0925/152508.655:ERROR:device_event_log_impl.cc(214)] [15:25:08.655] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:25:08.65 [11856:15528:0925/152508.655:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:25:08.65 [11856:15528:0925/152508.657:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 1.
+Sep 25, 2021 15:25:08.65 [11856:15528:0925/152508.657:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 2.
+Sep 25, 2021 15:25:08.66 [11856:15528:0925/152508.660:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 3.
+Sep 25, 2021 15:25:08.66 [11856:15528:0925/152508.660:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 4, got 0.
+Sep 25, 2021 15:25:08.66 [11856:15528:0925/152508.660:ERROR:device_event_log_impl.cc(214)] [15:25:08.660] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:25:09.04 [11856:15528:0925/152509.044:ERROR:device_event_log_impl.cc(214)] [15:25:09.044] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:10.64 [11856:15528:0925/152510.643:ERROR:device_event_log_impl.cc(214)] [15:25:10.643] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:10.85 [11856:15528:0925/152510.857:ERROR:device_event_log_impl.cc(214)] [15:25:10.856] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:25:10.85 [11856:15528:0925/152510.857:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:25:10.85 [11856:15528:0925/152510.857:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 25, 2021 15:25:10.86 [11856:15528:0925/152510.857:ERROR:device_event_log_impl.cc(214)] [15:25:10.856] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:25:10.89 [11856:15528:0925/152510.898:ERROR:device_event_log_impl.cc(214)] [15:25:10.897] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:25:10.90 [11856:15528:0925/152510.905:ERROR:device_event_log_impl.cc(214)] [15:25:10.905] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:12.55 [11856:15528:0925/152512.554:ERROR:device_event_log_impl.cc(214)] [15:25:12.553] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:12.87 [11856:15528:0925/152512.876:ERROR:device_event_log_impl.cc(214)] [15:25:12.875] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:14.45 [11856:15528:0925/152514.452:ERROR:device_event_log_impl.cc(214)] [15:25:14.452] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:14.79 [11856:15528:0925/152514.790:ERROR:device_event_log_impl.cc(214)] [15:25:14.790] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:16.34 [11856:15528:0925/152516.342:ERROR:device_event_log_impl.cc(214)] [15:25:16.342] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:25:18.24 [11856:15528:0925/152518.244:ERROR:device_event_log_impl.cc(214)] [15:25:18.244] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:06.36 [11856:15528:0925/153906.362:ERROR:device_event_log_impl.cc(214)] [15:39:06.363] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:06.75 [11856:15528:0925/153906.751:ERROR:device_event_log_impl.cc(214)] [15:39:06.751] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:07.56 [11856:15528:0925/153907.566:ERROR:device_event_log_impl.cc(214)] [15:39:07.566] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:09.15 [11856:15528:0925/153909.154:ERROR:device_event_log_impl.cc(214)] [15:39:09.155] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:09.50 [11856:15528:0925/153909.508:ERROR:device_event_log_impl.cc(214)] [15:39:09.508] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:11.07 [11856:15528:0925/153911.071:ERROR:device_event_log_impl.cc(214)] [15:39:11.072] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:12.98 [11856:15528:0925/153912.982:ERROR:device_event_log_impl.cc(214)] [15:39:12.982] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:13.31 [11856:15528:0925/153913.309:ERROR:device_event_log_impl.cc(214)] [15:39:13.309] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:14.88 [11856:15528:0925/153914.880:ERROR:device_event_log_impl.cc(214)] [15:39:14.880] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:15.21 [11856:15528:0925/153915.215:ERROR:device_event_log_impl.cc(214)] [15:39:15.215] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:18.69 [11856:15528:0925/153918.693:ERROR:device_event_log_impl.cc(214)] [15:39:18.694] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:18.70 [11856:15528:0925/153918.703:ERROR:device_event_log_impl.cc(214)] [15:39:18.704] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:39:18.70 [11856:15528:0925/153918.704:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 1.
+Sep 25, 2021 15:39:18.70 [11856:15528:0925/153918.708:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 2.
+Sep 25, 2021 15:39:18.71 [11856:15528:0925/153918.710:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 3.
+Sep 25, 2021 15:39:18.71 [11856:15528:0925/153918.710:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 4, got 1.
+Sep 25, 2021 15:39:18.71 [11856:15528:0925/153918.710:ERROR:device_event_log_impl.cc(214)] [15:39:18.710] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:39:18.88 [11856:15528:0925/153918.888:ERROR:device_event_log_impl.cc(214)] [15:39:18.888] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:39:18.89 [11856:15528:0925/153918.888:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:39:18.89 [11856:15528:0925/153918.888:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 25, 2021 15:39:18.89 [11856:15528:0925/153918.888:ERROR:device_event_log_impl.cc(214)] [15:39:18.889] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:39:18.94 [11856:15528:0925/153918.940:ERROR:device_event_log_impl.cc(214)] [15:39:18.939] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:39:18.95 [11856:15528:0925/153918.952:ERROR:device_event_log_impl.cc(214)] [15:39:18.952] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:21.12 [11856:15528:0925/153921.124:ERROR:device_event_log_impl.cc(214)] [15:39:21.125] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:23.04 [11856:15528:0925/153923.044:ERROR:device_event_log_impl.cc(214)] [15:39:23.045] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:23.40 [11856:15528:0925/153923.404:ERROR:device_event_log_impl.cc(214)] [15:39:23.404] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:25.16 [11856:15528:0925/153925.161:ERROR:device_event_log_impl.cc(214)] [15:39:25.161] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:39:25.16 [11856:15528:0925/153925.161:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:39:25.16 [11856:15528:0925/153925.161:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 25, 2021 15:39:25.16 [11856:15528:0925/153925.161:ERROR:device_event_log_impl.cc(214)] [15:39:25.161] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:39:25.21 [11856:15528:0925/153925.212:ERROR:device_event_log_impl.cc(214)] [15:39:25.212] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:39:25.67 [11856:15528:0925/153925.676:ERROR:device_event_log_impl.cc(214)] [15:39:25.676] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:26.01 [11856:15528:0925/153926.010:ERROR:device_event_log_impl.cc(214)] [15:39:26.010] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:39:26.01 [11856:15528:0925/153926.010:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:39:26.01 [11856:15528:0925/153926.010:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 25, 2021 15:39:26.01 [11856:15528:0925/153926.010:ERROR:device_event_log_impl.cc(214)] [15:39:26.010] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:39:26.03 [11856:15528:0925/153926.030:ERROR:device_event_log_impl.cc(214)] [15:39:26.030] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:39:27.09 [11856:15528:0925/153927.097:ERROR:device_event_log_impl.cc(214)] [15:39:27.097] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:27.09 [11856:15528:0925/153927.098:ERROR:usb_descriptors.cc(160)] Device descriptor parsing error.
+Sep 25, 2021 15:39:27.10 [11856:15528:0925/153927.099:ERROR:device_event_log_impl.cc(214)] [15:39:27.099] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_05ac&pid_12a8#43740f28dc643722b394d5405522607c52171b98#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:39:29.02 [11856:15528:0925/153929.020:ERROR:device_event_log_impl.cc(214)] [15:39:29.021] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:29.38 [11856:15528:0925/153929.383:ERROR:device_event_log_impl.cc(214)] [15:39:29.384] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:30.92 [11856:15528:0925/153930.928:ERROR:device_event_log_impl.cc(214)] [15:39:30.925] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:31.23 [11856:15528:0925/153931.230:ERROR:device_event_log_impl.cc(214)] [15:39:31.229] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:32.07 [11856:15528:0925/153932.075:ERROR:device_event_log_impl.cc(214)] [15:39:32.074] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:39:32.24 [11856:15528:0925/153932.240:ERROR:device_event_log_impl.cc(214)] [15:39:32.240] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 15:39:32.24 [11856:15528:0925/153932.240:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 25, 2021 15:39:32.24 [11856:15528:0925/153932.240:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 25, 2021 15:39:32.24 [11856:15528:0925/153932.240:ERROR:device_event_log_impl.cc(214)] [15:39:32.240] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 25, 2021 15:39:32.29 [11856:15528:0925/153932.296:ERROR:device_event_log_impl.cc(214)] [15:39:32.295] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 25, 2021 15:39:32.31 [11856:15528:0925/153932.309:ERROR:device_event_log_impl.cc(214)] [15:39:32.309] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 15:44:48.94 [11856:15528:0925/154448.947:ERROR:device_event_log_impl.cc(214)] [15:44:48.948] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Sep 25, 2021 19:55:48.25 NEW SESSION
+Sep 25, 2021 19:55:48.25 [19140:13796:0925/195548.249:ERROR:device_event_log_impl.cc(214)] [19:55:48.249] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 25, 2021 21:01:26.61 [19140:13796:0925/210126.609:ERROR:device_event_log_impl.cc(214)] [21:01:26.609] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 25, 2021 22:12:28.86 [19140:13796:0925/221228.863:ERROR:device_event_log_impl.cc(214)] [22:12:28.862] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Sep 26, 2021 19:38:27.07 NEW SESSION
+Sep 26, 2021 19:38:27.07 [19720:1536:0926/193827.069:ERROR:device_event_log_impl.cc(214)] [19:38:27.070] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 26, 2021 19:40:35.53 [17976:544:0926/194035.529:ERROR:device_event_log_impl.cc(214)] [19:40:35.529] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 26, 2021 19:41:00.79 [3452:11924:0926/194100.798:ERROR:device_event_log_impl.cc(214)] [19:41:00.798] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 26, 2021 20:34:56.47 [3452:11924:0926/203456.476:ERROR:device_event_log_impl.cc(214)] [20:34:56.475] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 26, 2021 21:40:31.63 [3452:11924:0926/214031.631:ERROR:device_event_log_impl.cc(214)] [21:40:31.582] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Sep 27, 2021 10:19:08.42 NEW SESSION
+Sep 27, 2021 10:19:08.42 [12608:7024:0927/101908.420:ERROR:device_event_log_impl.cc(214)] [10:19:08.419] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2021 13:24:28.45 [12608:7024:0927/132428.456:ERROR:device_event_log_impl.cc(214)] [13:24:28.456] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 27, 2021 14:43:56.80 [12608:7024:0927/144356.805:ERROR:device_event_log_impl.cc(214)] [14:43:56.805] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 14:48:09.07 [12608:7024:0927/144809.074:ERROR:device_event_log_impl.cc(214)] [14:48:09.073] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 14:48:10.08 [12608:7024:0927/144810.089:ERROR:device_event_log_impl.cc(214)] [14:48:10.088] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 14:48:44.04 [12608:7024:0927/144844.044:ERROR:device_event_log_impl.cc(214)] [14:48:44.041] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:01:37.46 [12608:7024:0927/150137.460:ERROR:device_event_log_impl.cc(214)] [15:01:37.460] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:01:39.46 [12608:7024:0927/150139.460:ERROR:device_event_log_impl.cc(214)] [15:01:39.460] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:01:39.65 [12608:7024:0927/150139.651:ERROR:device_event_log_impl.cc(214)] [15:01:39.651] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2021 15:01:39.65 [12608:7024:0927/150139.651:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 27, 2021 15:01:39.65 [12608:7024:0927/150139.651:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 27, 2021 15:01:39.65 [12608:7024:0927/150139.651:ERROR:device_event_log_impl.cc(214)] [15:01:39.651] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 27, 2021 15:01:39.71 [12608:7024:0927/150139.714:ERROR:device_event_log_impl.cc(214)] [15:01:39.713] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 27, 2021 15:01:39.71 [12608:7024:0927/150139.716:ERROR:device_event_log_impl.cc(214)] [15:01:39.716] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:02:54.25 [12608:7024:0927/150254.257:ERROR:device_event_log_impl.cc(214)] [15:02:54.258] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:04:35.56 [12608:7024:0927/150435.565:ERROR:device_event_log_impl.cc(214)] [15:04:35.565] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:04:37.27 [12608:7024:0927/150437.272:ERROR:device_event_log_impl.cc(214)] [15:04:37.273] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:04:37.49 [12608:7024:0927/150437.493:ERROR:device_event_log_impl.cc(214)] [15:04:37.494] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2021 15:04:37.49 [12608:7024:0927/150437.493:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 0.
+Sep 27, 2021 15:04:37.49 [12608:7024:0927/150437.493:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Sep 27, 2021 15:04:37.49 [12608:7024:0927/150437.494:ERROR:device_event_log_impl.cc(214)] [15:04:37.494] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_1fd2&pid_5001#6&30a3cb&0&7#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Sep 27, 2021 15:04:37.56 [12608:7024:0927/150437.567:ERROR:device_event_log_impl.cc(214)] [15:04:37.568] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Sep 27, 2021 15:04:37.57 [12608:7024:0927/150437.571:ERROR:device_event_log_impl.cc(214)] [15:04:37.572] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:06:05.98 [12608:7024:0927/150605.981:ERROR:device_event_log_impl.cc(214)] [15:06:05.980] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:13:15.19 [12608:7024:0927/151315.193:ERROR:device_event_log_impl.cc(214)] [15:13:15.193] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:13:16.92 [12608:7024:0927/151316.923:ERROR:device_event_log_impl.cc(214)] [15:13:16.922] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:25:06.84 [12608:7024:0927/152506.840:ERROR:device_event_log_impl.cc(214)] [15:25:06.840] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:26:55.29 [12608:7024:0927/152655.297:ERROR:device_event_log_impl.cc(214)] [15:26:55.297] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 15:28:05.49 [12608:7024:0927/152805.491:ERROR:device_event_log_impl.cc(214)] [15:28:05.492] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Sep 27, 2021 16:23:13.05 [12608:7024:0927/162313.058:ERROR:device_event_log_impl.cc(214)] [16:23:13.058] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)

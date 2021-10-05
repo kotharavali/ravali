@@ -1,0 +1,9 @@
+package fristappservice;
+
+import fristappbean.emp2;
+
+public interface Authorinf {
+	
+	public void concept(String name,String publisher,String year,String price);
+	public int imp(emp2 e);
+}

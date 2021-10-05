@@ -1,0 +1,9 @@
+package fristappbean;
+
+public class author {
+	private String title;
+	private String publisher;
+	private int cost;
+	private int year;
+
+}

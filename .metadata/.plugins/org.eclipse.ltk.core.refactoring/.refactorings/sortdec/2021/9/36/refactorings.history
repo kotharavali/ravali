@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;bean.StdBean&apos; to &apos;Sudent&apos;&#x0D;&#x0A;- Original project: &apos;sortdec&apos;&#x0D;&#x0A;- Original element: &apos;bean.StdBean&apos;&#x0D;&#x0A;- Renamed element: &apos;bean.Sudent&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StdBean&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;bean{StdBean.java[StdBean" matchStrategy="1" name="Sudent" qualified="false" references="true" similarDeclarations="false" stamp="1630686234699" textual="false" version="1.0"/>
+</session>

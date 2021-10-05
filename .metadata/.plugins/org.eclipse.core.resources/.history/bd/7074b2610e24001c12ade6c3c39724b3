@@ -1,0 +1,56 @@
+package fristappimpl;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+
+import firstapp.dbutil.DbUtil;
+import fristappbean.MyModel;
+import fristappservice.Tableinf;
+
+public class Silver implements Tableinf {
+Connection con;
+	@Override
+	public ArrayList<MyModel> gold() {
+		// TODO Auto-generated method stub
+		try {
+		DbUtil db = new DbUtil();
+		con = db.getConnection();
+		Statement stm;
+		stm = con.createStatement();
+		String sql ="Select * From ravali";
+		ResultSet rst;
+		rst = stm.executeQuery(sql);
+	   ArrayList<MyModel> arrList = new ArrayList<MyModel>();
+		while (rst.next()) {
+		MyModel mm = new MyModel();
+		mm.setName(rst.getString("name"));
+		mm.setPublisher(rst.getString("publisher"));
+		mm.setCost(rst.getInt("cost"));
+		mm.setYear(rst.getInt("year"));
+		arrList(mm);
+		Collections.sort(arrList);
+		return arrList;
+		
+		}
+		}
+		catch(Exception e){
+			e.printStackTrace();
+		}
+		return null;
+		
+	}
+
+	public static void main(String[] args) {
+		Tableinf oo=new Silver();
+		oo.gold();
+
+	}
+		
+	}
+
+

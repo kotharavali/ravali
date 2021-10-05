@@ -1,0 +1,14 @@
+127.0.0.1 - - [17/Sep/2021:12:39:43 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:12:50:10 +0530] "GET /fristapp/img.html HTTP/1.1" 200 3620
+127.0.0.1 - - [17/Sep/2021:20:23:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:20:23:54 +0530] "GET /fristapp/RedisterAPPlicatin HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:20:24:59 +0530] "GET /fristapp/RedisterAPPlicatin HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:20:25:04 +0530] "GET /fristapp/RedisterAPPlicatin HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:20:28:10 +0530] "GET /fristapp/ HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:20:29:40 +0530] "GET /fristapp/img.html HTTP/1.1" 200 3640
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:20:30:11 +0530] "POST /fristapp/RedisterAPPlicatin HTTP/1.1" 200 20
+127.0.0.1 - - [17/Sep/2021:21:19:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:21:20:08 +0530] "GET /fristapp/img.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:21:20:37 +0530] "POST /fristapp/RedisterAPPlicatin HTTP/1.1" 200 20
+127.0.0.1 - - [17/Sep/2021:21:25:02 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Sep/2021:21:25:33 +0530] "POST /fristapp/RedisterAPPlicatin HTTP/1.1" 200 20

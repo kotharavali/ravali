@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="./publisher" method="Post">
+<label>author name:</label>
+<input type="text" id="x" name="author"/>
+<label>book name</label>
+<input type="text" id="y" name="book"/>
+<label>publisheing year</label>
+<input type="text" id="z" name="year"/>
+<label>price</label>
+<input type="text" id="a" name="price"/>
+</form>
+</body>
+</html>

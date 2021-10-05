@@ -1,0 +1,36 @@
+package firstapp.dbutil;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class DbUtil {
+	Connection con ;
+	 public Connection getconnection() {
+		 
+	
+	
+
+    try {
+
+        Class.forName("com.mysql.jdbc.Driver");
+
+         con = DriverManager.getConnection("jdbc:mysql://localhost:3306/july","kotharavali","ravali21");
+         System.out.println("connection-----"+con);
+			} catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
+		
+		return con;
+		
+	}
+	 public static void main(String[] args) {
+		 DbUtil dbutil=new DbUtil();
+		 dbutil.getconnection();
+	}
+	 }
+
+	
+
+
+

@@ -1,0 +1,23 @@
+package firstapp.dbutil;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class Data {
+	Connection con;
+	public void cat()  {
+		DbUtil db = new DbUtil();
+		con = db.getConnection();
+		Statement statement=con.createStatement();
+		try {
+			ResultSet set=statement.getResultSet();
+		}
+		
+	}catch(Exception e) {
+		e.printStackTrace();
+	}
+
+}

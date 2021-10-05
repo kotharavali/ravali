@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Gvtemployee">
+        <property name="context-root" value="Gvtemployee"/>
+        <property name="java-output-path" value="/Gvtemployee/build/classes"/>
+    </wb-module>
+</project-modules>

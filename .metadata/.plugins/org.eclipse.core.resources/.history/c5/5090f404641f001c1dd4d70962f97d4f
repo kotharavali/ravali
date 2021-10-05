@@ -1,0 +1,11 @@
+package fristappservice;
+
+
+import fristappbean.emp2;
+
+public interface Aurhor {
+	public void details(String name,String book,String year,String price);
+	public int save(emp2 e);
+	
+	
+}

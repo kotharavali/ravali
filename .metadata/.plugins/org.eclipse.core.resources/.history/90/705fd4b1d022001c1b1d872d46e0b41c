@@ -1,0 +1,17 @@
+package firstapp.dbutil;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+public class Data {
+	Connection con;
+	public void cat()  {
+		DbUtil db = new DbUtil();
+		con = db.getConnection();
+		PreparedStatement ps=con.prepareStatement("select * from ravali");
+		ps.getString(1);
+		ps.getString(2);
+	}
+
+}

@@ -1,0 +1,6 @@
+package fristappservice;
+
+public interface Aurhor {
+	public void details(String name,String bookname,String year,String price);
+
+}
