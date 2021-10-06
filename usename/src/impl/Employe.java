@@ -60,8 +60,7 @@ static String name;
 		
 		UserInfc ob=new Employe ();
 		ob.getUserDetails();
-		
-		
+		System.out.println("hi");
 	}
 
 }
