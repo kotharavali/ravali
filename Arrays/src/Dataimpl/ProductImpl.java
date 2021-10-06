@@ -34,6 +34,7 @@ import Datainfc.productService;
 			entry=x[i];
 			
 		System.out.println("print valu"+entry);
+		System.out.println("hi welcome");
 		}
 		return null;
 	}
