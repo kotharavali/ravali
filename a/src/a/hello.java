@@ -5,7 +5,7 @@ public class hello {
 		try {
 			if(10<9) {
 				System.out.println("hi");
-				hey welcome
+				
 		} 
 			else
 				{
@@ -16,6 +16,7 @@ public class hello {
 			// TODO: handle exception
 			System.out.println("no");
 			//hello ravali
+			System.out.println("ravali");
 		}
 	}
 	
